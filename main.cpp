@@ -1,5 +1,7 @@
 // Yasmina Matta 260895252
+// yasmina.matta@mail.mcgill.ca
 // Cesar Lahoud 260886626
+// cesar.lahoud@mail.mcgill.ca
 #include <iostream>
 using namespace std;
 
