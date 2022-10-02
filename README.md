@@ -1,0 +1,1 @@
+This is lab 2 where we connect gerrithub to github :)
